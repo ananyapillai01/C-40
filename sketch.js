@@ -6,6 +6,7 @@ var allPlayers;
 var distance = 0;
 var database;
 
+var carsAtEnd = 0;
 var form, player, game;
 
 var cars, car1, car2, car3, car4;
